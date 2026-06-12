@@ -12,7 +12,7 @@ My current focus is on Machine Learning, Deep Learning, and Computer Vision thro
 
 ## 📚 Projects
 
-Here I showcase projects related to Data Science, Machine Learning, Deep Learning, Computer Vision, and Artificial Intelligence.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Maha-HazimeZayour/Portfolio-Guide) in Data Science, Machine Learning, and Artificial Intelligence.
 
 ## 🛠️ Tools & Skills
 
