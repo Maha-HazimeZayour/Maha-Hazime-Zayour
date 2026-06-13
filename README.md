@@ -17,8 +17,11 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Maha-
 ## 🛠️ Tools & Skills
 
 **Languages:** Python, SQL, R basics
+
 **Data & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
+
 **Databases & Cloud:** MySQL, Azure
+
 **Focus:** Machine Learning, Deep Learning, Computer Vision, Recommender Systems
 
 ## 👋🏻 Connect with Me
